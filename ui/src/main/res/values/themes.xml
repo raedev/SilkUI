@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Theme-->
+    <style name="Silk.AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="materialButtonStyle">@style/Widget.Silk.Button</item>
+        <item name="rippleColor">#1AFFFFFF</item>
+    </style>
+
+    <!--Button-->
+    <style name="Widget.Silk.Button" parent="Widget.MaterialComponents.Button">
+        <item name="rippleColor">?attr/rippleColor</item>
+    </style>
+
+</resources>

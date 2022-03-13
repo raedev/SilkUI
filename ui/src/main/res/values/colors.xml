@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 一级标题颜色 -->
+    <color name="textPrimaryColor">#666666</color>
+    <!-- 二级标题颜色 -->
+    <color name="textSecondColor">#666666</color>
+    <!-- 辅助文本颜色 -->
+    <color name="textHintColor">#666666</color>
+</resources>
